@@ -1,0 +1,11 @@
+.page-header {
+	background-color: #2f75b5;
+	margin-top: 0;
+	padding: 20px 20px 20px 40px;
+}
+
+h1 {
+	font-family: 'Lobster', cursive;
+	font-size: 10pt;
+	color: #ffffff;
+}

@@ -1,0 +1,1076 @@
+ Shadowing Combinations
+..Solar Distribution=FullInteriorAndExterior
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           4
+ ..Surface=1FLOOR:ZONE32_WALL_4_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_12_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_14_0_0
+ Number of back surfaces=          69
+ ...Surface=1FLOOR:ZONE32_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_9_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_9_0_0_0_0_0_WIN
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE32_WALL_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_4_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           1
+ ..Surface=1FLOOR:ZONE32_WALL_3_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           2
+ ..Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_14_0_0
+ Number of back surfaces=          69
+ ...Surface=1FLOOR:ZONE32_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_9_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_9_0_0_0_0_0_WIN
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE32_WALL_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_6_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           3
+ ..Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_5_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_31_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_7_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=          69
+ ...Surface=1FLOOR:ZONE32_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_9_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_9_0_0_0_0_0_WIN
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE32_WALL_7_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_7_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_8_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=          13
+ ..Surface=1FLOOR:ZONE32_WALL_9_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_11_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_12_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_13_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_14_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_17_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_29_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_2_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_9_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_13_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_9_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           2
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_14_0_0
+ Number of back surfaces=          69
+ ...Surface=1FLOOR:ZONE32_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_8_0_0
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE32_WALL_9_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_9_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_10_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           7
+ ..Surface=1FLOOR:ZONE32_WALL_11_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_12_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_14_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_2_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_13_0_0
+ ..Surface=1FLOOR:ZONE28_WALL_3_0_0
+ ..Surface=1FLOOR:ZONE30_WALL_5_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_11_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           4
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_10_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_12_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_14_0_0
+ Number of back surfaces=          68
+ ...Surface=1FLOOR:ZONE32_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_8_0_0
+ Number of receiving sub surfaces=           2
+ ....Surface=1FLOOR:ZONE32_WALL_11_0_0_0_0_0_WIN
+ ....Surface=1FLOOR:ZONE32_WALL_11_0_0_1_0_1_WIN
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_11_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_11_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_12_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           5
+ ..Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_10_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_11_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_31_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_13_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           2
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_14_0_0
+ Number of back surfaces=          69
+ ...Surface=1FLOOR:ZONE32_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_8_0_0
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE32_WALL_13_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_13_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_14_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           9
+ ..Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_5_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_9_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_10_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_11_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_13_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_27_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_31_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_15_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=          69
+ ...Surface=1FLOOR:ZONE32_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_8_0_0
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE32_WALL_15_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_15_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_16_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           7
+ ..Surface=1FLOOR:ZONE32_WALL_17_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_2_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_9_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_13_0_0
+ ..Surface=1FLOOR:ZONE28_WALL_3_0_0
+ ..Surface=1FLOOR:ZONE30_WALL_3_0_0
+ ..Surface=1FLOOR:ZONE30_WALL_5_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_17_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           2
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_16_0_0
+ Number of back surfaces=          69
+ ...Surface=1FLOOR:ZONE32_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_8_0_0
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE32_WALL_17_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_17_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_PARTITION_18_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_PARTITION_19_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_PARTITION_19_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_PARTITION_20_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_PARTITION_21_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_PARTITION_22_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_PARTITION_23_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_PARTITION_23_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_PARTITION_24_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_PARTITION_24_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_PARTITION_25_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_26_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           3
+ ..Surface=1FLOOR:ZONE32_WALL_27_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_31_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_2_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_27_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           5
+ ..Surface=1FLOOR:ZONE32_WALL_14_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_26_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_2_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_3_0_0
+ ..Surface=1FLOOR:ZONE10_WALL_7_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_28_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=          67
+ ...Surface=1FLOOR:ZONE32_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_8_0_0
+ Number of receiving sub surfaces=           3
+ ....Surface=1FLOOR:ZONE32_WALL_28_0_0_0_0_0_WIN
+ ....Surface=1FLOOR:ZONE32_WALL_28_0_0_1_0_1_WIN
+ ....Surface=1FLOOR:ZONE32_WALL_28_0_0_2_0_2_WIN
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_28_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_28_0_0_1_0_1_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_28_0_0_2_0_2_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_29_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           3
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_30_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_31_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_30_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           3
+ ..Surface=1FLOOR:ZONE32_WALL_29_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_31_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_2_0_0
+ Number of back surfaces=          69
+ ...Surface=1FLOOR:ZONE32_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_8_0_0
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE32_WALL_30_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_30_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_31_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           9
+ ..Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_12_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_14_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_26_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_29_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_30_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_2_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_3_0_0
+ ..Surface=1FLOOR:ZONE10_WALL_7_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_32_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=          69
+ ...Surface=1FLOOR:ZONE32_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_5_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_6_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0
+ ...Surface=1FLOOR:ZONE32_WALL_7_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE32_WALL_8_0_0
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE32_WALL_32_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE32_WALL_32_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_GROUNDFLOOR_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_GROUNDFLOOR_0_0_1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_GROUNDFLOOR_0_0_2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_GROUNDFLOOR_0_0_3 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_GROUNDFLOOR_0_0_4 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_GROUNDFLOOR_0_0_5 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_GROUNDFLOOR_0_0_6 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_GROUNDFLOOR_0_0_7 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_GROUNDFLOOR_0_0_8 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_GROUNDFLOOR_0_0_9 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_GROUNDFLOOR_0_0_10 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_ROOF_1_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_ROOF_1_0_1 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_ROOF_1_0_2 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_ROOF_1_0_3 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_ROOF_1_0_4 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_ROOF_1_0_5 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_ROOF_1_0_6 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_ROOF_1_0_7 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_ROOF_1_0_8 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_ROOF_1_0_9 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_ROOF_1_0_10 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE32_ROOF_1_0_11 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_8_0_10000 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_7_0_10001 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_7_0_0_0_0_0_DOOR_10003 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_6_0_10003 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_5_0_10004 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_WALL_2_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           9
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_10_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_16_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_26_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_27_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_30_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_31_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_3_0_0
+ ..Surface=1FLOOR:ZONE10_WALL_7_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_WALL_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           3
+ ..Surface=1FLOOR:ZONE32_WALL_27_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_31_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_2_0_0
+ Number of back surfaces=          39
+ ...Surface=1FLOOR:ZONE7_PARTITION_8_0_10000
+ ...Surface=1FLOOR:ZONE7_PARTITION_7_0_10001
+ ...Surface=1FLOOR:ZONE7_PARTITION_7_0_0_0_0_0_DOOR_10003
+ ...Surface=1FLOOR:ZONE7_PARTITION_6_0_10003
+ ...Surface=1FLOOR:ZONE7_PARTITION_5_0_10004
+ ...Surface=1FLOOR:ZONE7_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE7_PARTITION_4_0_0
+ ...Surface=1FLOOR:ZONE7_WALL_9_0_0
+ ...Surface=1FLOOR:ZONE7_WALL_9_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE7_PARTITION_10_0_0
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE7_WALL_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE7_WALL_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_4_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_WALL_9_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           2
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_16_0_0
+ Number of back surfaces=          39
+ ...Surface=1FLOOR:ZONE7_PARTITION_8_0_10000
+ ...Surface=1FLOOR:ZONE7_PARTITION_7_0_10001
+ ...Surface=1FLOOR:ZONE7_PARTITION_7_0_0_0_0_0_DOOR_10003
+ ...Surface=1FLOOR:ZONE7_PARTITION_6_0_10003
+ ...Surface=1FLOOR:ZONE7_PARTITION_5_0_10004
+ ...Surface=1FLOOR:ZONE7_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE7_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE7_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE7_PARTITION_4_0_0
+ ...Surface=1FLOOR:ZONE7_PARTITION_10_0_0
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE7_WALL_9_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE7_WALL_9_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_10_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_10_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_11_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_12_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_WALL_13_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           4
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_10_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_16_0_0
+ ..Surface=1FLOOR:ZONE30_WALL_4_0_0
+ Number of back surfaces=          39
+ ...Surface=1FLOOR:ZONE7_PARTITION_8_0_10000
+ ...Surface=1FLOOR:ZONE7_PARTITION_7_0_10001
+ ...Surface=1FLOOR:ZONE7_PARTITION_7_0_0_0_0_0_DOOR_10003
+ ...Surface=1FLOOR:ZONE7_PARTITION_6_0_10003
+ ...Surface=1FLOOR:ZONE7_PARTITION_5_0_10004
+ ...Surface=1FLOOR:ZONE7_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE7_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE7_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE7_PARTITION_4_0_0
+ ...Surface=1FLOOR:ZONE7_WALL_9_0_0
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE7_WALL_13_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE7_WALL_13_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_14_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_14_0_0_0_0_0_DOOR is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_15_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_WALL_16_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_17_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_17_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_PARTITION_18_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_WALL_19_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=          39
+ ...Surface=1FLOOR:ZONE7_PARTITION_8_0_10000
+ ...Surface=1FLOOR:ZONE7_PARTITION_7_0_10001
+ ...Surface=1FLOOR:ZONE7_PARTITION_7_0_0_0_0_0_DOOR_10003
+ ...Surface=1FLOOR:ZONE7_PARTITION_6_0_10003
+ ...Surface=1FLOOR:ZONE7_PARTITION_5_0_10004
+ ...Surface=1FLOOR:ZONE7_WALL_2_0_0
+ ...Surface=1FLOOR:ZONE7_WALL_3_0_0
+ ...Surface=1FLOOR:ZONE7_WALL_3_0_0_0_0_0_WIN
+ ...Surface=1FLOOR:ZONE7_PARTITION_4_0_0
+ ...Surface=1FLOOR:ZONE7_WALL_9_0_0
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE7_WALL_19_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE7_WALL_19_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_GROUNDFLOOR_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_GROUNDFLOOR_0_0_1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_GROUNDFLOOR_0_0_2 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_GROUNDFLOOR_0_0_3 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_GROUNDFLOOR_0_0_4 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_GROUNDFLOOR_0_0_5 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_GROUNDFLOOR_0_0_6 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_ROOF_1_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_ROOF_1_0_1 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_ROOF_1_0_2 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_ROOF_1_0_3 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_ROOF_1_0_4 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_ROOF_1_0_5 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_ROOF_1_0_6 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE7_ROOF_1_0_7 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE28_PARTITION_2_0_10016 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE28_PARTITION_2_0_0_0_0_0_DOOR_10018 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE28_PARTITION_5_0_10018 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE28_WALL_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           4
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_10_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_16_0_0
+ ..Surface=1FLOOR:ZONE30_WALL_4_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE28_WALL_4_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE28_GROUNDFLOOR_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE28_ROOF_1_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE30_PARTITION_2_0_10012 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE30_PARTITION_2_0_0_0_0_0_DOOR_10014 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE30_PARTITION_7_0_10014 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE30_PARTITION_6_0_10015 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE30_WALL_3_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           2
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_16_0_0
+ Number of back surfaces=          10
+ ...Surface=1FLOOR:ZONE30_PARTITION_2_0_10012
+ ...Surface=1FLOOR:ZONE30_PARTITION_2_0_0_0_0_0_DOOR_10014
+ ...Surface=1FLOOR:ZONE30_PARTITION_7_0_10014
+ ...Surface=1FLOOR:ZONE30_PARTITION_6_0_10015
+ ...Surface=1FLOOR:ZONE30_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE30_WALL_5_0_0
+ ...Surface=1FLOOR:ZONE30_GROUNDFLOOR_0_0_0
+ ...Surface=1FLOOR:ZONE30_GROUNDFLOOR_0_0_1
+ ...Surface=1FLOOR:ZONE30_ROOF_1_0_0
+ ...Surface=1FLOOR:ZONE30_ROOF_1_0_1
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE30_WALL_3_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE30_WALL_3_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE30_WALL_4_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           3
+ ..Surface=1FLOOR:ZONE7_WALL_13_0_0
+ ..Surface=1FLOOR:ZONE28_WALL_3_0_0
+ ..Surface=1FLOOR:ZONE30_WALL_5_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE30_WALL_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           4
+ ..Surface=1FLOOR:ZONE32_WALL_8_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_10_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_16_0_0
+ ..Surface=1FLOOR:ZONE30_WALL_4_0_0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE30_GROUNDFLOOR_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE30_GROUNDFLOOR_0_0_1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE30_ROOF_1_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE30_ROOF_1_0_1 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE10_PARTITION_5_0_10005 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE10_PARTITION_4_0_10006 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE10_PARTITION_4_0_0_0_0_0_DOOR_10008 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE10_PARTITION_3_0_10008 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE10_PARTITION_3_0_0_0_0_0_DOOR_10010 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE10_PARTITION_2_0_10010 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE10_PARTITION_6_0_10011 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE10_WALL_7_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           3
+ ..Surface=1FLOOR:ZONE32_WALL_27_0_0
+ ..Surface=1FLOOR:ZONE32_WALL_31_0_0
+ ..Surface=1FLOOR:ZONE7_WALL_2_0_0
+ Number of back surfaces=          11
+ ...Surface=1FLOOR:ZONE10_PARTITION_5_0_10005
+ ...Surface=1FLOOR:ZONE10_PARTITION_4_0_10006
+ ...Surface=1FLOOR:ZONE10_PARTITION_4_0_0_0_0_0_DOOR_10008
+ ...Surface=1FLOOR:ZONE10_PARTITION_3_0_10008
+ ...Surface=1FLOOR:ZONE10_PARTITION_3_0_0_0_0_0_DOOR_10010
+ ...Surface=1FLOOR:ZONE10_PARTITION_2_0_10010
+ ...Surface=1FLOOR:ZONE10_PARTITION_6_0_10011
+ ...Surface=1FLOOR:ZONE10_GROUNDFLOOR_0_0_0
+ ...Surface=1FLOOR:ZONE10_GROUNDFLOOR_0_0_1
+ ...Surface=1FLOOR:ZONE10_ROOF_1_0_0
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE10_WALL_7_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE10_WALL_7_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE10_GROUNDFLOOR_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE10_GROUNDFLOOR_0_0_1 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE10_ROOF_1_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE10_ROOF_1_0_1 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE29_PARTITION_3_0_10019 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE29_PARTITION_3_0_0_0_0_0_WIN_10021 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE29_PARTITION_2_0_10021 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE29_WALL_4_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE29_WALL_5_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           6
+ ...Surface=1FLOOR:ZONE29_PARTITION_3_0_10019
+ ...Surface=1FLOOR:ZONE29_PARTITION_3_0_0_0_0_0_WIN_10021
+ ...Surface=1FLOOR:ZONE29_PARTITION_2_0_10021
+ ...Surface=1FLOOR:ZONE29_WALL_4_0_0
+ ...Surface=1FLOOR:ZONE29_GROUNDFLOOR_0_0_0
+ ...Surface=1FLOOR:ZONE29_ROOF_1_0_0
+ Number of receiving sub surfaces=           1
+ ....Surface=1FLOOR:ZONE29_WALL_5_0_0_0_0_0_WIN
+ ==================================
+ Surface=1FLOOR:ZONE29_WALL_5_0_0_0_0_0_WIN is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE29_GROUNDFLOOR_0_0_0 is not used as Receiving Surface in calculations.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
+ ==================================
+ Surface=1FLOOR:ZONE29_ROOF_1_0_0 is used as Receiving Surface in calculations and is convex.
+ Number of general casting surfaces=           0
+ Number of back surfaces=           0
+ Number of receiving sub surfaces=           0
